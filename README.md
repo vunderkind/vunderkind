@@ -1,5 +1,5 @@
 # Call me Justin. Or mogwai. I don't mind!
-![Justin Face](https://justinirabor.com/static/media/justin.a40abea1.gif)
+![Justin Face](https://s3-img.pixpa.com/com/500/35465/1557503513-5032-startwomangif.gif)
 ### I'm a fullstack web developer on his way to becoming *very dangerous* with JavaScript, and slightly intimidating with Python. I started writing code in August 2019, and in that time I've built a handful of web apps (and toys!) - [you can find them here](https://justinirabor.com).
 I'm a fledgling creative coder, still cutting my teeth on ThreeJS (and playing with Blender on the side), the web audio API and various other ways of making procedural expressive art on the canvas and anywhere else. 
 I participated in the Facebook AR Hackathon in May (and was part of a team that created Memori-a, an AR filter for remembering the dearly departed). 
