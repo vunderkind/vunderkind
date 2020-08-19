@@ -18,6 +18,7 @@ I participated in the Facebook AR Hackathon in May (and was part of a team that 
 
 ### Astrofy for Spotify
 <img src="https://res.cloudinary.com/studio-mogwai/image/upload/v1597877684/astrofy.gif" width="100%" />
+
 Love horoscopes? Love serendipity? Love music? I collaborated with Seyi Taylor (who had the idea) to build [Astrofy](https://astrofy.live)
 ![Snapshot](https://res.cloudinary.com/studio-mogwai/image/upload/v1597877724/Screenshot_2020-08-19_at_23.55.17.png)
 
