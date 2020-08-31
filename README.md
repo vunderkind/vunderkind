@@ -4,6 +4,10 @@
 
 ## What I'm currently working on
 
+## moolah
+I tackled my financial indiscipline in January by keeping a spreadsheet powered by the simple yet surprisingly effective 50-30-20 budgeting formula. I'm now writing the code that takes my learnings from the exercise and turns it into an app. Early screens:
+![Snapshot](https://res.cloudinary.com/studio-mogwai/image/upload/v1598862022/ting.png)
+
 ### Creosote
 I'm a huge comicbook nerd and I've dabbled in [creating some myself](https://obaranda.com). Lately I've been reimagining the whole webcomic experience for a digital-first approach. I find that some aspects of traditional comic book optimizations persist, that constrain the storytelling possibilities for webcomics. I write about how I think about stories on my Substack titled [Do while thinking](https://dowhile.substack.com), and as the name implies, I'm thinking about comics right now and building my first comic book project. It involves a frontend, a database, an API and of course, a lot of drawing and writing for the actual comic!
 
