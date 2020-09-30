@@ -1,28 +1,3 @@
-# Call me Justin. Or mogwai. I don't mind!
-
-### I'm a fullstack web developer on his way to becoming *very dangerous* with JavaScript, and slightly intimidating with Python. I started writing code in August 2019, and in that time I've built a handful of web apps (and toys!) - [you can find them here](https://justinirabor.com/projects).
-
-## What I'm currently working on
-
-## moolah
-I tackled my financial indiscipline in January by keeping a spreadsheet powered by the simple yet surprisingly effective 50-30-20 budgeting formula. I'm now writing the code that takes my learnings from the exercise and turns it into an app. Early screens:
-![Snapshot](https://res.cloudinary.com/studio-mogwai/image/upload/v1598862022/ting.png)
-
-### Creosote
-I'm a huge comicbook nerd and I've dabbled in [creating some myself](https://obaranda.com). Lately I've been reimagining the whole webcomic experience for a digital-first approach. I find that some aspects of traditional comic book optimizations persist, that constrain the storytelling possibilities for webcomics. I write about how I think about stories on my Substack titled [Do while thinking](https://dowhile.substack.com), and as the name implies, I'm thinking about comics right now and building my first comic book project. It involves a frontend, a database, an API and of course, a lot of drawing and writing for the actual comic!
-
-
-It's not coincidental that it looks like Netflix. I think there is a cinematic appeal I'm trying to reinject into comicbooks.
-
-### Memori-a
-I participated in the Facebook AR Hackathon in May (and was part of a team that created Memori-a, an AR filter for remembering the dearly departed). 
-
-### Astrofy for Spotify
-
-Love horoscopes? Love serendipity? Love music? I collaborated with Seyi Taylor (who had the idea) to build [Astrofy](https://astrofy.live)
-![Snapshot](https://res.cloudinary.com/studio-mogwai/image/upload/v1597877724/Screenshot_2020-08-19_at_23.55.17.png)
-
-
 
 <!--
 **vunderkind/vunderkind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,3 +13,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### First, an introduction:
+Je suis le renard de Philip Tetlock. A fullstack web developer fascinated with things that move and respond to the touch. Loves beautiful UI, surprisingly clever business logic and engaging with other knowledge workers about the arcane arts of their disciplines. 
+Current stack: React, Node, MongoDB/SQL/Firebase. 
+Design: Procreate, Figma, the Adobe Suite, good ol' pen and paper. 
+Previous life: Head of Growth for many a startup in SSA. Did really good work too!
+
+### Pronouns:
+He/him.
+
+### Currently working on:
+Moolah, a PFM application to help as many hapless souls who don't have a handle on their money. As dogfooding goes, I've been using the MVP of this product (an honest-to-god spreadsheet, would you believe that?) since January 2020 to encouraging results. 
+Stack: React (front-end), Firebase(backend, including db, auth and everything in between).
+Design: Figma
+Animation: Procreate 
+
+### Looking to collaborate on:
+Web monetization, gamedev and XR. 
+
+### Looking for help with:
+Algorithms, math and computer science in general. 
+
+### Ask me about:
+JavaScript, animation and illustration. 
+
+### Best way to reach me?
+Good ol' email: justin.irabor@gmail.com
+
+### Fun fact about me:
+If a song is >160BPM, it's already my favorite song. 
