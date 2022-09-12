@@ -6,7 +6,7 @@ I'm a [Bloom Institute of Technology](https://www.bloomtech.com/) grad and creat
 * Currently reading — Structure and Interpretation of Computer Programs (in Lisp)
 * Currently writing — [Craft Overflow](https://craftoverflow.substack.com), my Substack newsletter documenting my work as an engineer. 
 * Currently learning — ThreeJS and Blender (those are a package deal, tbh), Rust and Operating System Concepts (yes, using the OG Dinosaur Book)
-* Wanna reach out? I'm on Twitter as `@lifeofmogwai' and in the mailspace as `justinirabor@gmail.com`
+* Wanna reach out? I'm on Twitter as `@lifeofmogwai` and in the mailspace as `justinirabor@gmail.com`
 * Pronouns: he/him
 
 ## Favorite Tools
