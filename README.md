@@ -5,7 +5,7 @@ I'm an AI and ML engineer based in Lagos with about seven years of professional 
 ### What I've shipped
 
 - **Agentic systems at IU International University of Applied Sciences (2023–2025).** I built an agentic learning system that served about 300,000 students across five universities.
-- **[Kainene vos Savant](https://savant.holeyfox.co) (2023).** This is an AI study companion I built for myself and then opened to the public, with a Telegram interface, encrypted bring-your-own-key support and Paystack billing. On launch day it handled about 10,000 requests an hour. I [wrote about what it taught me about AI pricing](https://gist.holeyfox.co).
+- **[Kainene vos Savant](https://savant.holeyfox.co) (2023).** This is an AI study companion I built for myself and then opened to the public, with a Telegram interface, encrypted bring-your-own-key support and Paystack billing. On launch day it handled about 10,000 requests an hour. I [wrote about what it taught me about AI pricing](https://gist.holeyfox.co/llm-product-pricing-lessons-from/).
 - **Fintech at TradeCore (2021–2023).** I worked full-stack on a European trading platform, including the KYC service, the business dashboard, and the fractional trading service behind crypto-wallet fractional trading.
 - **[threads-analytics](https://github.com/vunderkind/threads-analytics).** This is a local-first analytics dashboard for Threads. It uses Claude to run hypothesis-driven experiments on your posts and returns statistical verdicts. Stack: FastAPI, SQLite and scipy.
 
